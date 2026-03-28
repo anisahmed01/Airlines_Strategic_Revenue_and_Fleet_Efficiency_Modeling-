@@ -34,7 +34,7 @@ If the airline increases occupancy by just 10%, the projected annual growth is:
 
 ## 📂 Repository Structure
 ```text
-├── Airline_Analysis.ipynb        # Full Jupyter/Colab Analysis
+├── Airline_Analysis.ipynb        # Full Colab Analysis
 ├── Airlines_Widescreen.pptx      # Executive Presentation
 ├── README.md                     # Project Documentation
 └── images/                       # Visualizations and Charts
